@@ -1,0 +1,18 @@
+{
+  "name": "WarrenLearnMEAN",
+  "version": "0.0.0",
+  "homepage": "https://github.com/WarrenLearn/WarrenLearnMEAN",
+  "authors": [
+    "WarrenLearn <warren.learnanything@gmail.com>"
+  ],
+  "description": "MEAN Stack Learning",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "toastr": "~2.0.1",
+    "angular": "~1.2.13",
+    "angular-resource": "~1.2.13",
+    "angular-route": "~1.2.13"
+  }
+}
